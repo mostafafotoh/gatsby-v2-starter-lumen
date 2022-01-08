@@ -1,15 +1,18 @@
 ---
-title: Upgraded to Gatsby v2
-date: "2018-10-18T16:51:00.000Z"
+title: Welcome to my world 
+date: "2022-01-08T16:51:00.000Z"
 layout: post
 draft: false
-path: "/posts/upgraded-to-gatsby-v2/"
-category: "Gatsby"
+path: "/posts/welcome-to-my-world/"
+category: "General"
 tags:
-  - "Gatsby"
-  - "Web Development"
-description: "This starter has been forked and upgraded to Gatsby v2"
+  - "General"
+  - "Personal"
+description: "This is an intro about Mostafa"
 ---
+
+## hello wo my shitty website
+
 
 This is a Gatsby v2 compatible version of the
 [lumen](https://github.com/alxshelepenok/gatsby-starter-lumen) starter, started
